@@ -9,4 +9,8 @@ mtfug
 sfdsf
 dsda
 modify
+<<<<<<< HEAD
 sd
+=======
+sdfsf
+>>>>>>> feature1
